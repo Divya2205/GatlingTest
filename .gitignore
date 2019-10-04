@@ -1,0 +1,17 @@
+build
+*.iml
+*.ipr
+*.iws
+.DS_Store
+/bin/
+.settings/
+.idea/
+.project
+.classpath
+.cache-tests
+results/
+/conf/config.ini
+/_ignore
+/logs
+/target
+/out

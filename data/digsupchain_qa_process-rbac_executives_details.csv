@@ -1,0 +1,49 @@
+user_nm,email_id,rule_type,rule_setting_id,is_adhoc
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,098b9a19-bd27-43aa-8cb7-036c7c4c5e1d,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,25df0e9f-3ec3-4abd-bcf1-8faa5440303e,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,3fff02e1-1a50-44c4-bd19-20fe0f7dde16,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,54aac21f-15e5-4404-a3eb-0bf2998a8610,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,757fbe2a-4b05-4f53-aed3-8dd3ce6fc2e6,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,7b992a52-9ee5-4742-9e08-6b91c8be3e77,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,c5210b96-d864-4208-81c7-189ddb0d5b27,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,c89ef311-e5d4-4b6e-bd8b-8bacebcf8603,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,e624e7f5-6555-4e4f-9ab6-fdd94b840cf2,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,e6d3a0fb-c524-4e00-90d1-c4d1f51311f0,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,High PPS,fcd05ad0-a6ce-4d2a-b437-adb7a808baa6,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,Long Term Gap Out,65d80b7f-3a6f-410f-a5b7-7210a11a0141,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,Long Term Gap Out,cd5144d4-a672-4209-950b-94b4269776ab,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,Severe STBL,048075a7-e45c-4167-aae8-0002d7cd3974,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,Severe STBL,0de0464a-8b9b-48df-9166-909069106592,False
+LAHARI_BOORLA,Lahari_Boorla@Dellteam.com,Severe STBL,9a4041dd-5e85-4335-9cb9-0067b999c09e,False
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,High PPS,25df0e9f-3ec3-4abd-bcf1-8faa5440303e,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,High PPS,54aac21f-15e5-4404-a3eb-0bf2998a8610,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,High PPS,65d80b7f-3a6f-410f-a5b7-7210a11a0141,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,High PPS,c5210b96-d864-4208-81c7-189ddb0d5b27,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,High PPS,c89ef311-e5d4-4b6e-bd8b-8bacebcf8603,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,High PPS,e624e7f5-6555-4e4f-9ab6-fdd94b840cf2,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,High PPS,e6d3a0fb-c524-4e00-90d1-c4d1f51311f0,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Long Term Gap Out,048075a7-e45c-4167-aae8-0002d7cd3974,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Long Term Gap Out,098b9a19-bd27-43aa-8cb7-036c7c4c5e1d,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Long Term Gap Out,7b992a52-9ee5-4742-9e08-6b91c8be3e77,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Long Term Gap Out,fcd05ad0-a6ce-4d2a-b437-adb7a808baa6,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Severe STBL,0de0464a-8b9b-48df-9166-909069106592,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Severe STBL,3fff02e1-1a50-44c4-bd19-20fe0f7dde16,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Severe STBL,757fbe2a-4b05-4f53-aed3-8dd3ce6fc2e6,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Severe STBL,9a4041dd-5e85-4335-9cb9-0067b999c09e,True
+AKANKSHA_PANDEY,akanksha_pandey3@dellteam.com,Severe STBL,cd5144d4-a672-4209-950b-94b4269776ab,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,098b9a19-bd27-43aa-8cb7-036c7c4c5e1d,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,25df0e9f-3ec3-4abd-bcf1-8faa5440303e,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,3fff02e1-1a50-44c4-bd19-20fe0f7dde16,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,757fbe2a-4b05-4f53-aed3-8dd3ce6fc2e6,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,7b992a52-9ee5-4742-9e08-6b91c8be3e77,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,9a4041dd-5e85-4335-9cb9-0067b999c09e,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,c89ef311-e5d4-4b6e-bd8b-8bacebcf8603,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,cd5144d4-a672-4209-950b-94b4269776ab,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,e6d3a0fb-c524-4e00-90d1-c4d1f51311f0,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,High PPS,fcd05ad0-a6ce-4d2a-b437-adb7a808baa6,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,Long Term Gap Out,54aac21f-15e5-4404-a3eb-0bf2998a8610,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,Long Term Gap Out,65d80b7f-3a6f-410f-a5b7-7210a11a0141,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,Long Term Gap Out,c5210b96-d864-4208-81c7-189ddb0d5b27,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,Long Term Gap Out,e624e7f5-6555-4e4f-9ab6-fdd94b840cf2,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,Severe STBL,048075a7-e45c-4167-aae8-0002d7cd3974,True
+SAPTAGIRI_CHATARJEE,saptagiri_chatarjee@dellteam.com,Severe STBL,0de0464a-8b9b-48df-9166-909069106592,True
